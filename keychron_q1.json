@@ -2,7 +2,7 @@
   "name": "Keychron Q1",
   "vendorProductId": 875823362,
   "macros": [
-    "{KC_LSFT,KC_LGUI,KC_4}",
+    "{KC_LGUI,KC_LALT,KC_Q}",
     "",
     "",
     "",
