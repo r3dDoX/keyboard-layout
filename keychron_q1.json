@@ -113,7 +113,7 @@
       "KC_RGHT"
     ],
     [
-      "RGB_TOG",
+      "KC_ESC",
       "KC_NO",
       "KC_BRID",
       "KC_BRIU",
@@ -127,7 +127,7 @@
       "KC_MUTE",
       "KC_VOLD",
       "KC_VOLU",
-      "KC_TRNS",
+      "RGB_TOG",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -297,7 +297,7 @@
       "KC_RGHT"
     ],
     [
-      "RGB_TOG",
+      "KC_ESC",
       "KC_NO",
       "KC_BRID",
       "KC_BRIU",
@@ -311,7 +311,7 @@
       "KC_MUTE",
       "KC_VOLD",
       "KC_VOLU",
-      "KC_TRNS",
+      "RGB_TOG",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
