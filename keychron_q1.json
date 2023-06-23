@@ -1,5 +1,5 @@
 {
-  "name": "Keychron Q1",
+  "name": "Keychron Q1V1 ISO",
   "vendorProductId": 875823362,
   "macros": [
     "{KC_LGUI,KC_LALT,KC_Q}",
@@ -82,7 +82,7 @@
       "KC_NUHS",
       "KC_HOME",
       "KC_LSFT",
-      "KC_NUBS",
+      "KC_RO",
       "KC_Z",
       "KC_X",
       "KC_C",
@@ -117,8 +117,8 @@
       "KC_NO",
       "KC_BRID",
       "KC_BRIU",
-      "USER00",
-      "USER01",
+      "CUSTOM(0)",
+      "CUSTOM(1)",
       "RGB_VAD",
       "RGB_VAI",
       "KC_MPRV",
@@ -187,7 +187,7 @@
       "KC_TRNS",
       "RGB_SPD",
       "KC_TRNS",
-      "MACRO00",
+      "MACRO(0)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -266,7 +266,7 @@
       "KC_NUHS",
       "KC_HOME",
       "KC_LSFT",
-      "KC_NUBS",
+      "KC_RO",
       "KC_Z",
       "KC_X",
       "KC_C",
@@ -301,8 +301,8 @@
       "KC_NO",
       "KC_BRID",
       "KC_BRIU",
-      "LWIN(KC_TAB)",
-      "LWIN(KC_E)",
+      "G(KC_TAB)",
+      "G(KC_E)",
       "RGB_VAD",
       "RGB_VAI",
       "KC_MPRV",
@@ -388,5 +388,6 @@
       "KC_TRNS",
       "KC_TRNS"
     ]
-  ]
+  ],
+  "encoders": []
 }
